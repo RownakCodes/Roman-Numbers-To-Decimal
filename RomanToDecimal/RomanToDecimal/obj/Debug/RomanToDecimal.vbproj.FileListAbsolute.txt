@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\bin\Debug\RomanToDecimal.exe.config
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\bin\Debug\RomanToDecimal.exe
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\bin\Debug\RomanToDecimal.pdb
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\bin\Debug\RomanToDecimal.xml
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.Resources.resources
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.exe
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.xml
+C:\Users\User\source\repos\RomanToDecimal\RomanToDecimal\obj\Debug\RomanToDecimal.pdb
